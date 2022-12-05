@@ -1,0 +1,49 @@
+{
+  "cardImages": [
+    {
+      "name": "moose",
+      "src": "./images/cards/moose.png",
+      "id": 1
+    },
+    {
+      "name": "polarBear",
+      "src": "./images/cards/polar-bear.png",
+      "id": 2
+    },
+    {
+      "name": "otter",
+      "src": "./images/cards/otter.png",
+      "id": 3
+    },
+    {
+      "name": "articFox",
+      "src": "./images/cards/artic-fox.png",
+      "id": 4
+    },
+    {
+      "name": "bird",
+      "src": "./images/cards/bird.png",
+      "id": 5
+    },
+    {
+      "name": "seaDog",
+      "src": "./images/cards/sea-dog.png",
+      "id": 6
+    },
+    {
+      "name": "hern",
+      "src": "./images/cards/hern.png",
+      "id": 7
+    },
+    {
+      "name": "hummingBird",
+      "src": "./images/cards/humming-bird.png",
+      "id": 8
+    },
+    {
+      "name": "baleen",
+      "src": "./images/cards/baleen.png",
+      "id": 9
+    }
+  ]
+}
