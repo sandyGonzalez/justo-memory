@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/justo-memory/static/css/main.fff31481.css",
-    "main.js": "/justo-memory/static/js/main.2505efa5.js",
+    "main.js": "/justo-memory/static/js/main.3cee7ee8.js",
     "static/js/787.7e792a23.chunk.js": "/justo-memory/static/js/787.7e792a23.chunk.js",
     "static/media/cover.png": "/justo-memory/static/media/cover.8bc2d6bd55def820286a.png",
     "index.html": "/justo-memory/index.html",
     "main.fff31481.css.map": "/justo-memory/static/css/main.fff31481.css.map",
-    "main.2505efa5.js.map": "/justo-memory/static/js/main.2505efa5.js.map",
+    "main.3cee7ee8.js.map": "/justo-memory/static/js/main.3cee7ee8.js.map",
     "787.7e792a23.chunk.js.map": "/justo-memory/static/js/787.7e792a23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff31481.css",
-    "static/js/main.2505efa5.js"
+    "static/js/main.3cee7ee8.js"
   ]
 }
