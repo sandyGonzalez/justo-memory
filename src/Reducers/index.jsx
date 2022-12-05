@@ -74,7 +74,7 @@ export const PlayerActionKind = {
         return { ...state, multiCompleted: action.multiCompletedPayload }
   
       case SHOWMENUMODAL:
-        return { ...state, SHOWMENUMODAL: action.menuModalPayload }
+        return { ...state, showMenuModal: action.menuModalPayload }
   
       case RESETGAME:
         return { ...initialPlayersState }
